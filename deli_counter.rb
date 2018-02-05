@@ -9,5 +9,5 @@ def line(katz_deli)
     index += 1
   end
     puts current_line
-    end
+  end
 end
