@@ -8,6 +8,6 @@ def line(deli_line)
     deli_line.each_with_index do |person, index|
     current_line << "#{index + 1}. #{person}"
   end
-  puts current_line
+  puts (current_line)
 end
 end
