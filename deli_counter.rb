@@ -19,3 +19,4 @@ if deli_line.length == 0
   deli_line << " #{person} #{index + 1}. "
 end
 end
+end
