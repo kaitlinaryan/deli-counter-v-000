@@ -8,4 +8,5 @@ def line(katz_deli)
     katz_deli.each_with_index do |person, index|
     index += 1
   end
+  puts current_line
 end
