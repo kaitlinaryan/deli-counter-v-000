@@ -8,11 +8,3 @@ def line(katz_deli)
     puts ("The line is currently: #{person} #{index}")
 end
 end
-
-
-
-def take_a_number(current_line, name)
-end
-
-def now_serving
-end
